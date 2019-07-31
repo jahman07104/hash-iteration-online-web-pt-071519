@@ -12,6 +12,5 @@ def happy_birthday(birthday_kids)
       years old!"
   end
 end
-end
 
 
